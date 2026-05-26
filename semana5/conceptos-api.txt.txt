@@ -1,0 +1,7 @@
+Qué hace esta ruta.
+
+Esta ruta es un endpoint de tipo GET que responde a solicitudes entrantes enviando un mensaje de texto o JSON al cliente. Cuando alguien accede a ella desde un navegador o aplicación, el servidor procesa la solicitud y devuelve una respuesta predefinida de forma inmediata.
+
+Para qué podría servir en una aplicación comunitaria.
+
+En una aplicación comunitaria, esta ruta podría servir como punto de consulta de información general, como avisos, alertas o anuncios del barrio. Por ejemplo, los vecinos podrían acceder a ella para ver reportes de seguridad, eventos locales o actualizaciones importantes de la comunidad.

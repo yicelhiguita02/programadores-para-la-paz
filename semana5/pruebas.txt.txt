@@ -1,0 +1,8 @@
+http://localhost:3000
+Es la ruta principal o raíz del servidor. Al acceder a ella, el servidor responde con un mensaje de bienvenida o la página de inicio de la aplicación.
+
+http://localhost:3000/saludo
+Es una ruta específica que responde con un saludo al usuario. El servidor detecta que se accedió a /saludo y devuelve un mensaje de texto como respuesta.
+
+http://localhost:3000/mensaje/juan
+Es una ruta dinámica que recibe un parámetro (en este caso el nombre "juan"). El servidor toma ese valor y lo usa para personalizar la respuesta, por ejemplo mostrando un mensaje dirigido específicamente a Juan.
