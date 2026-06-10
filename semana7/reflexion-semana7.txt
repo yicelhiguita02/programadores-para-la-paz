@@ -1,0 +1,9 @@
+Es importante que las comunidades puedan registrar y consultar reportes
+o incidencias en una plataforma tecnológica porque permite llevar un
+registro organizado de los problemas que afectan a los ciudadanos.
+Con una API que recibe datos mediante POST y los devuelve con GET,
+cualquier persona puede reportar una situación y cualquier autoridad
+puede consultarla fácilmente. Esto mejora la comunicación entre
+ciudadanos y entidades, agiliza la respuesta ante problemas y genera
+transparencia en la gestión pública. Sin estas herramientas, los
+reportes se perderían o serían difíciles de rastrear.

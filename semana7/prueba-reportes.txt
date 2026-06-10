@@ -1,0 +1,10 @@
+Se envió una petición POST a http://localhost:3000/reportes con:
+{ "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" }
+
+El servidor respondió:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" }
+}
+
+Al consultar GET /reportes el servidor devuelve la lista de reportes registrados.
