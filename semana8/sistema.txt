@@ -1,0 +1,15 @@
+El comando uname -a mostró:
+MINGW64_NT-10.0-26200 Yicel_lemus 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+El comando whoami mostró:
+yicel
+
+Para qué sirve conocer esta información:
+- uname -a muestra el nombre del sistema operativo, la versión del kernel y la
+  arquitectura del procesador. En un servidor es útil para saber qué sistema
+  está corriendo y verificar si el software es compatible con esa versión.
+
+- whoami muestra el usuario actual que está ejecutando los comandos. En un
+  servidor es importante para saber con qué permisos se trabaja y evitar
+  ejecutar comandos críticos como administrador sin necesidad, lo que
+  reduce riesgos de seguridad.

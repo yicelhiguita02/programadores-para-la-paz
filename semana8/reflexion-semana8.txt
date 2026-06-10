@@ -1,0 +1,9 @@
+La seguridad digital es fundamental para proteger plataformas tecnológicas
+que usan comunidades o procesos participativos porque estas manejan
+información sensible de muchas personas. Si una plataforma comunitaria
+no protege sus datos, cualquier persona malintencionada podría acceder
+a información privada de los ciudadanos. Usar contraseñas seguras, conexiones
+cifradas y controles de acceso garantiza que solo personas autorizadas
+puedan gestionar los reportes o datos del sistema. Además, registrar
+los accesos permite detectar actividad sospechosa a tiempo y proteger
+la confianza de la comunidad en la plataforma.
