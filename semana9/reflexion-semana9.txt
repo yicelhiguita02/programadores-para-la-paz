@@ -1,0 +1,5 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable y segura porque las comunidades dependen de ellas para comunicarse, compartir información y acceder a servicios en todo momento. Un servidor inestable puede generar pérdida de datos, interrupciones en el servicio y desconfianza por parte de los usuarios.
+
+La seguridad es igual de importante, ya que protege la información de los usuarios frente a accesos no autorizados o ataques. Si una plataforma no es segura, puede exponer datos sensibles y afectar la reputación del proyecto o la comunidad que la usa.
+
+Además, mantener registros (logs) y monitoreo constante permite identificar errores a tiempo y corregirlos antes de que afecten a más personas. Por estas razones, la estabilidad y la seguridad son pilares fundamentales para que cualquier plataforma digital cumpla su función de manera confiable y continua.
