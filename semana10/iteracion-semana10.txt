@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Reportar una irregularidad en una obra pública para dejar constancia trazable del caso.
+2. Recibir un aviso cuando entre un caso nuevo para no perder tiempo de respuesta.
+
+¿Por qué son las más importantes?
+Estas dos tareas forman el flujo mínimo de valor de la solución: si no hay
+forma de reportar, no existe información que trazar; y si el coordinador no
+se entera a tiempo, el reporte pierde utilidad. Priorizarlas primero permite
+entregar algo funcional de forma iterativa, en vez de intentar construir
+todo el sistema completo de una sola vez.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+- Cumple con una calidad mínima: funciona para el caso principal sin errores graves.
+- Fue revisada por otra persona del equipo antes de darla por completa.
+- Quedó registrada y trazable en el repositorio, para que cualquiera del equipo entienda cómo y cuándo se hizo.

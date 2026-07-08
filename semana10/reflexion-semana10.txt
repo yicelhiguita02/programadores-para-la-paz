@@ -1,0 +1,13 @@
+Las metodologías ágiles permiten organizar el trabajo comunitario en pasos
+pequeños y manejables, priorizando lo más urgente sin perder de vista el
+objetivo general. Un backlog claro ayuda a que todo el equipo sepa qué
+hacer primero y por qué, evitando confusión o esfuerzo desperdiciado.
+
+La automatización, por su parte, libera tiempo del equipo al encargarse
+de tareas repetitivas como notificar cuando llega un nuevo reporte,
+permitiendo que las personas se enfoquen en analizar y resolver los casos.
+
+Canales como Telegram facilitan la coordinación en tiempo real y la
+convocatoria rápida de la comunidad, siempre que se use con cuidado
+y sin exponer información sensible. Juntas, estas prácticas hacen que
+un proceso de participación ciudadana sea más ágil, trazable y confiable.

@@ -1,0 +1,5 @@
+1. Como ciudadano quiero reportar una irregularidad en una obra pública para dejar constancia trazable del caso.
+2. Como veedor quiero asignar un número de seguimiento a cada reporte para poder consultarlo en cualquier momento.
+3. Como coordinador quiero recibir un aviso cuando entre un caso nuevo para no perder tiempo de respuesta.
+4. Como miembro del equipo quiero marcar un caso como "en revisión" o "cerrado" para mantener el historial trazable del proceso.
+5. Como ciudadano quiero recibir una respuesta sobre el estado de mi reporte para confirmar que el sistema funciona.

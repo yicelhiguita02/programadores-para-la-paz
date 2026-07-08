@@ -1,0 +1,12 @@
+Evento: se registra un nuevo reporte de irregularidad en el sistema de veeduría.
+
+Acción: n8n detecta el nuevo registro y envía un mensaje automático al grupo de coordinadores en Telegram.
+
+Mensaje: "Se registró un nuevo caso para revisión. Ingresar al sistema para más detalles."
+
+Información que no debe enviarse por seguridad:
+nombre completo del ciudadano que reporta, número de cédula, dirección
+exacta, número de teléfono, ubicación en tiempo real y cualquier otro dato
+que permita identificar directamente a la persona que hizo el reporte.
+Solo se envían datos de coordinación (que hay un caso nuevo), nunca
+información personal ni sensible.
