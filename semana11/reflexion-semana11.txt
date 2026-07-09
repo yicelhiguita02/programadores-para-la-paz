@@ -1,0 +1,15 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita
+una base de datos para organizar la información de forma estructurada,
+evitando confusiones sobre quién tiene cada recurso o cuál solicitud está
+pendiente. Sin esto, sería difícil llevar un control real de los préstamos.
+
+La autenticación de usuarios es igualmente necesaria, ya que no cualquier
+persona debería poder modificar el estado de un préstamo ajeno o eliminar
+publicaciones que no le pertenecen. Identificar a cada vecino garantiza
+que las acciones dentro de la plataforma sean responsables y confiables.
+
+Por último, proteger la información es fundamental porque este tipo de
+plataformas maneja datos que, aunque parezcan simples, pueden exponer a
+las personas si se filtran, como direcciones o horarios. Cuidar esos datos
+evita riesgos de seguridad y fortalece la confianza de la comunidad en
+el sistema.

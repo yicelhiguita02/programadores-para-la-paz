@@ -1,0 +1,33 @@
+Entidad: Recurso
+
+Campos principales:
+- id: 1
+- titulo: Mejorar la iluminación del parque central.
+- descripcion: Petición digital para solicitar más luminarias en el parque.
+- fecha: 2026-07-08
+
+Propósito:
+Guardar la información comunitaria de cada iniciativa o causa digital que
+un usuario publica en la plataforma, como una petición para mejorar algún
+aspecto del barrio. Esta entidad permite que todos los usuarios puedan
+consultar qué causas existen y de qué tratan antes de decidir si quieren
+apoyarlas. El campo "disponible" indica si la causa sigue activa y puede
+seguir recibiendo apoyos, o si ya fue cerrada porque cumplió su objetivo
+o porque el plazo de recolección terminó.
+
+
+Entidad: Solicitud
+
+Campos principales:
+- id: 101
+- recurso_id: 1
+- usuario: Andrea22
+- fecha: 2026-07-08
+
+Propósito:
+Registrar cada vez que un usuario apoya una causa digitalmente, permitiendo
+llevar el conteo de cuántas personas respaldan una iniciativa y mantener
+trazabilidad de quién y cuándo se sumó a cada causa. Esta información es
+importante porque le da fuerza y legitimidad a la petición cuando se
+presente ante las autoridades del barrio, además de permitir verificar
+que cada apoyo proviene de un usuario identificado dentro de la plataforma.

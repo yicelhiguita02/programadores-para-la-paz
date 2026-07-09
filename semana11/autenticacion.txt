@@ -1,0 +1,14 @@
+El login sirve para confirmar quién es la persona que está usando la
+plataforma antes de dejarla crear una causa o apoyar alguna existente.
+Sin esta verificación, cualquiera podría hacerse pasar por otro usuario.
+
+Ciertas rutas necesitan protección especial, como la que permite cerrar
+una causa antes de tiempo o eliminar apoyos registrados, ya que solo el
+creador de la causa o un administrador debería poder hacer esos cambios.
+Dejar esas acciones abiertas a cualquier persona pondría en riesgo la
+confiabilidad de todo el sistema.
+
+Hay información que jamás debería quedar visible para el público, como
+la contraseña de acceso de un usuario, su número de cédula o teléfono, su
+dirección exacta, y cualquier clave o token que use la plataforma para
+conectarse con otros servicios.

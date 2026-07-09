@@ -1,0 +1,14 @@
+En la pantalla principal, un usuario podría llenar un formulario corto
+para publicar una nueva causa, escribiendo de qué trata y por qué le
+importa a la comunidad.
+
+Debajo aparecería el listado de causas que siguen abiertas, para que
+cualquier persona pueda leerlas antes de decidir si quiere sumarse.
+
+Junto a cada causa habría un botón para apoyarla con un solo clic, y al
+lado se vería un número que va subiendo a medida que más usuarios se
+suman, dando una idea rápida de qué tanto respaldo tiene esa iniciativa.
+
+Todo esto debe verse simple y ordenado, pensado para que cualquier
+persona del barrio lo entienda sin dificultad, y sin dejar a la vista
+ningún dato personal de quienes participan.
