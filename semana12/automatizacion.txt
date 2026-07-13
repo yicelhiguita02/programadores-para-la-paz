@@ -1,0 +1,8 @@
+Que evento que activa la automatización:
+Una causa comunitaria alcanza el número mínimo de apoyos requeridos para generar la petición formal.
+ 
+Que mensaje que se envía:
+"¡Buenas noticias! La causa ha alcanzado el número de apoyos necesarios y el documento de petición ya está disponible para su revisión."
+ 
+Que información que no debe enviarse por seguridad:
+Los nombres completos de los apoyos individuales, números de teléfono, direcciones de domicilio, números de identificación (cédulas) o cualquier comentario personal escrito por los ciudadanos que participaron. La notificación debe limitarse a informar que ocurrió el evento, sin exponer datos personales de quienes respaldaron la causa.

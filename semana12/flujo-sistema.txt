@@ -1,0 +1,9 @@
+
+1. Un miembro de la comunidad ingresa a la plataforma y describe la causa que quiere impulsar (título y descripción).
+2. El sistema guarda la causa en la base de datos con un identificador único y la fecha de creación.
+3. La causa queda disponible públicamente para que otros ciudadanos puedan revisarla y decidir si la apoyan.
+4. Cada persona que apoya la causa registra su apoyo con un solo clic, y el sistema lo asocia a la causa correspondiente.
+5. El sistema calcula automáticamente el total de apoyos recibidos y lo muestra en tiempo real.
+6. Cuando la causa alcanza el número de apoyos definido, el sistema genera un documento PDF formal con la petición y el listado de respaldos.
+7. El documento generado queda disponible para ser descargado o enviado a la entidad correspondiente, cerrando así el proceso de exigibilidad ciudadana.
+ 

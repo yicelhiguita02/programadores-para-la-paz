@@ -1,0 +1,15 @@
+Causa
+id: identificador único que distingue a cada causa registrada en el sistema.
+titulo: nombre corto que resume de qué trata la petición o solicitud.
+descripcion: explicación detallada del problema y de lo que se está pidiendo.
+fecha: día en que la causa fue creada y publicada en la plataforma.
+ 
+Apoyo
+id: identificador único que distingue a cada apoyo registrado.
+causa_id: número que indica a qué causa pertenece ese apoyo.
+nombre: nombre de la persona que está respaldando la causa.
+fecha: día en que la persona registró su apoyo.
+ 
+Explicación breve:
+La entidad Causa sirve para guardar cada iniciativa o petición comunitaria registrada en la plataforma, con su título, descripción y fecha de creación.
+La entidad Apoyo sirve para registrar cada respaldo que un usuario le da a una causa, guardando quién apoyó y en qué fecha, lo que permite contar los apoyos totales.
